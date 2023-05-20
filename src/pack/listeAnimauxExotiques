@@ -1,0 +1,10 @@
+"Babouin", "Male", "Exotique", "adulte", "Perroquet",1,1, HERBIVORE
+"Chimpanzé", "Femelle", "Exotique", "Adulte", "Perroquet",1,2, HERBIVORE
+"Tigrou", "Male", "Exotique", "Enfant", "Tigre", 3, 2, CARNIVORE
+"Lulu", "Femelle", "Exotique", "Adulte", "Tigre",3,4, CARNIVORE
+"Lulu", "Femelle", "Exotique", "Adulte", "Tigre",3,4, CARNIVORE
+"Lulu", "Femelle", "Exotique", "Adulte", "Tigre",3,4, CARNIVORE
+"Lulu", "Femelle", "Exotique", "Adulte", "Tigre",3,4, CARNIVORE
+"Lulu", "Femelle", "Exotique", "Adulte", "Tigre",3,4, CARNIVORE
+"Bob", "Male","Exotique", "Pere d'une girafe", "Girafe", 3, 5, HERBIVORE
+"Lulu", "Femelle","Exotique", "Enfant", "Girafe", 3, 6, HERBIVORE

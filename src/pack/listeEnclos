@@ -1,0 +1,3 @@
+CARNIVORE, 1, "Douves", MEDIUM, "Tigre"
+OMNIVORE, 2, "Cage", SMALL, "Singe"
+HERBIVORE, 3, "Cage", LARGE, "Mouton"
